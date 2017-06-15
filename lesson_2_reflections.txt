@@ -1,5 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 Initializing a repository allows you to create a .git file. 
+
 How is the staging area different from the working directory and the repository?
 Allows a temporary working space to make changes in before actually committing them to an id
 
@@ -13,6 +14,8 @@ By creating a drafting environment it helps me see what's to be committed before
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Branches become helpful when testing out new versions that you aren't sure will work in the long term. Creates a testing sandbox for you to reference before being ready to push to the master. (Reference in the lessons as italian version of the game or an experiment)
 
 How do the diagrams help you visualize the branch structure?
 
