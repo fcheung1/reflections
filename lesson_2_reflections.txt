@@ -19,6 +19,8 @@ Branches become helpful when testing out new versions that you aren't sure will 
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams show the flow of commits from the most recent to the original initiated commit. 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
