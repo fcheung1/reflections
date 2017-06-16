@@ -24,5 +24,7 @@ Diagrams show the flow of commits from the most recent to the original initiated
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+When you merge two branches together, all changes are put in chronological order - we represent it the way we do because it illustrates the flow of changes. Branches are simply labels to understand features being worked on 
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
