@@ -28,3 +28,5 @@ When you merge two branches together, all changes are put in chronological order
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Pros of auto merges are it eases operational workflows, when manually merging, you get to make more fine tuned adjustments and more control 
